@@ -1,5 +1,5 @@
 # Neocities-Blog-Uploader
-A blog uploader for blogs on Neocities
+A blog uploader for blogs on Neocities See it in action here: https://risingthumb.xyz/blog.html
 ## Installation
 To install this, you will need to make a clone of the repository, save it somewhere and extract it.
 
@@ -24,6 +24,9 @@ Your blogs will be put into a top-level folder from the root called `blogs`. The
 
 ## Configuration
 The configuration lets you modify the directory to use for blogtext, blogoutput, the bloghead.html, blogtail.html, blogHubEmpty.html and blog.html locations. The RSS feed informations are important for setting your RSS feed up correctly. the RSS Item information is important if you want the items linked correctly. The login information is important to be able to use the Neocities API.
+
+## Contribution
+Feel free to contribute to the repo. I can do code review and pull your changes if they are good.
 
 ## License
 This software is given to you under the MIT License. Basically put, do what you want with it, but I'm not responsible if anything goes wrong.
